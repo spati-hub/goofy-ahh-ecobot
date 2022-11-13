@@ -1,0 +1,8 @@
+discord.py
+youtube_dl
+colorama
+requests
+pyfiglet
+rule34
+dhooks
+Pillow
